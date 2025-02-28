@@ -1,4 +1,4 @@
-# Hello there
+# Hello There
 I'm currently studying
 
 
